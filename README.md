@@ -7,13 +7,13 @@
 <h1 align="center">Time Tracking Dashboard</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/harlleybastos/time-tracking-dashboard?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/harlleybastos/website-time-tracker?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/harlleybastos/time-tracking-dashboard?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/harlleybastos/website-time-tracker?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/harlleybastos/time-tracking-dashboard?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/harlleybastos/website-time-tracker?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/harlleybastos/time-tracking-dashboard?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/harlleybastos/website-time-tracker?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/harlleybastos/time-tracking-dashboard?color=56BEB8" /> -->
 
@@ -25,7 +25,7 @@
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧  Time Tracking Dashboard 🚀 Complete ✅
+	Time Tracking Dashboard 🚀 Complete ✅
 </h4> 
 
 <hr>
